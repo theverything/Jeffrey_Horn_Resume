@@ -47,5 +47,5 @@ Work in training department for new employees focusing on procedures and safety,
 **Apple Applications:** Pages, Keynote, Numbers, Final Cut, Aperture, and Mail  
 **Microsoft Office:** Word, Excel, Power Point, and Outlook  
 **Web Development Software:** Coda, Sublime Text 2, Hype, iTerm2  
-**Programing:** HTML, CSS, JavaScript/Jquery, Ruby, and PHP  
+**Programming:** HTML, CSS, JavaScript/Jquery, Ruby, and PHP  
 **Ruby Specific:** Ruby on Rails, Sinatra, and Rspec
