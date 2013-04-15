@@ -1,5 +1,5 @@
 # Jeffrey Horn
-1(714)624-4454  
+1 (714) 624-4454  
 j3ffhorn@gmail.com  
 [jeffreyhorn.com](http://www.jeffreyhorn.com "My website")
 
