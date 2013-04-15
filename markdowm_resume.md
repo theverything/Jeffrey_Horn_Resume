@@ -23,7 +23,7 @@ High School Diploma
 
 *01/2012-Current*  
 **Visual Production, Nordstrom, Fullerton, CA**  
-I'm going to fill this in later.
+Prototype designs sent from corporate, organize materials needed for large scale production, inventory assets and props in the warehouse database, and maintain schedules for deliveries to stores in the region. 
 
 *11/2009-01/2012*  
 **Visual Stylist, Nordstrom, Brea, CA**  
