@@ -23,7 +23,7 @@ High School Dipolma
 
 *01/2012 - Current*  
 **Visual Production, Nordstrom, Fullerton, CA**  
-Worst birthday ever baby know for sho', I'll never let you go I'm in pieces, so come fix me. We don't need no wings to fly if I was your boyfriend, I'd never let you go and all the haters I swear they look so small from up here. Baby know for sho', I'll never let you go you know I'm a real OG and baby I ain't from the TO I'ma make you shine bright like you're laying in the snow, burr.
+I'm going to fill this in later.
 
 *11/2009 - 01/2012*  
 **Visual Stylist, Nordstrom, Brea, CA**  
