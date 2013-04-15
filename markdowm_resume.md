@@ -17,7 +17,7 @@ General Education
 
 **Newport High School**  
 *1995 - 1999*  
-High School Dipolma
+High School Diploma
 
 ## Work Experience
 
@@ -31,7 +31,7 @@ Style Women’s, Men’s, Kid’s and Cosmetic departments using company trend r
 
 *01/2009 - 07/2009*  
 **Assistant Manager of Retail Store, Concours Motor Cars, Anaheim, CA**  
-Managed 12 employees, creating schedules for employees work hours, inventory of merchandise, timecards, key holder, worked closely with retail companies for products and engagements. (Company Dissolved)
+Managed 12 employees, creating schedules for employees work hours, inventory of merchandise, time cards, key holder, worked closely with retail companies for products and engagements. (Company Dissolved)
 
 *10/2008 - 04/2009*  
 **Sales Professional, Bloomingdale’s, Newport, CA**  
