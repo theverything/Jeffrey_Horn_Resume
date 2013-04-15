@@ -1,54 +1,55 @@
-# Jeffrey Horn
-1 (714) 624-4454  
+# Jeffrey Horn #
+1(714)624-4454  
 j3ffhorn@gmail.com  
 [jeffreyhorn.com](http://www.jeffreyhorn.com "My website")
 
 * * *
 
-## Education
+## Education ##
 
 **Fullerton College**  
-*2007 - 2008*  
+*2007-2008*  
 General Education  
 
 **Bellevue Community College**  
-*2006 - 2007*  
+*2006-2007*  
 General Education  
 
 **Newport High School**  
-*1995 - 1999*  
+*1995-1999*  
 High School Diploma
 
-## Work Experience
+## Work Experience ##
 
-*01/2012 - Current*  
+*01/2012-Current*  
 **Visual Production, Nordstrom, Fullerton, CA**  
 I'm going to fill this in later.
 
-*11/2009 - 01/2012*  
+*11/2009-01/2012*  
 **Visual Stylist, Nordstrom, Brea, CA**  
-Style Women’s, Men’s, Kid’s and Cosmetic departments using company trend reports; Build and style windows, Initiate depart- ment blitzes and track department progress, Create floor schematics for departments, and Set-up store for special events e.g. Sales, Holiday, Cosmetics.
+Style womens, mens, kids and cosmetic departments using company trend reports, build and style windows, initiate department blitzes and track department progress, create floor schematics for departments, and set-up store for special events e.g. sales, holiday, cosmetics.
 
-*01/2009 - 07/2009*  
+*01/2009-07/2009*  
 **Assistant Manager of Retail Store, Concours Motor Cars, Anaheim, CA**  
-Managed 12 employees, creating schedules for employees work hours, inventory of merchandise, time cards, key holder, worked closely with retail companies for products and engagements. (Company Dissolved)
+Manage a team of 12 employees, create schedules for employees work hours, maintain inventory of merchandise, work closely with other retail companies for products and engagements. (Company Dissolved)
 
-*10/2008 - 04/2009*  
+*10/2008-04/2009*  
 **Sales Professional, Bloomingdale’s, Newport, CA**  
 Build looks for customers, disseminate product knowledge to customers, and maintain an online client-book.
 
-*06/2007 - 06/2008*  
+*06/2007-06/2008*  
 **Account Coordinator, Fusion Public Relations, Los Angeles, CA**  
-Created coverage grids and briefing books for clients, checked lead headlines daily and distributed to office, put together press releases and pitches, helped field questions about client products at trade shows and conventions, and worked with teams to brainstorm ideas for product launches.
+Create coverage grids and briefing books for clients, check lead headlines daily and distribute to office, put together press releases and pitches, help field questions about client products at trade shows and conventions, and work with teams to brainstorm ideas for product launches.
 
-*09/1999 - 03/2006*  
+*09/1999-03/2006*  
 **Custodial Working Lead, Disneyland Resort, Anaheim, CA**  
-Worked in training department for new employees focusing on procedures and safety; partnered with other lines of business within the resort to maintain park cleanliness, supervised crews of up to 15 people, assigned work locations breaks and monitored areas, disseminated information from management team to hourly cast members, worked on special events such as commercial filming, private parties, provided guest service and park information to guests.
+Work in training department for new employees focusing on procedures and safety, partner with other lines of business within the resort to maintain park cleanliness, supervise crews of up to 15 people, assign work locations breaks and monitor areas, disseminate information from management team to hourly cast members, work on special events such as commercial filming, private parties, provide guest service and park information to guests.
 
-## Skills
+## Skills ##
 
 **Adobe Creative Suite:** Photoshop, Illustrator, and InDesign  
-**Apple Applications:** Pages, Keynote, Numbers, Final Cut, and Mail  
+**Apple Applications:** Pages, Keynote, Numbers, Final Cut, Aperture, and Mail  
 **Microsoft Office:** Word, Excel, Power Point, and Outlook  
 **Web Development Software:** Coda, Sublime Text 2, Hype, iTerm2  
-**Programing:** HTML, CSS, JavaScript, and Visual C#/ Visual Basic
+**Programing:** HTML, CSS, JavaScript/Jquery, Ruby, and PHP  
+**Ruby Specific:** Ruby on Rails, Sinatra, and Rspec
