@@ -33,10 +33,6 @@ Style womens, mens, kids and cosmetic departments using company trend reports, b
 **Assistant Manager of Retail Store, Concours Motor Cars, Anaheim, CA**  
 Manage a team of 12 employees, create schedules for employees work hours, maintain inventory of merchandise, work closely with other retail companies for products and engagements. (Company Dissolved)
 
-*10/2008-04/2009*  
-**Sales Professional, Bloomingdale’s, Newport, CA**  
-Build looks for customers, disseminate product knowledge to customers, and maintain an online client-book.
-
 *06/2007-06/2008*  
 **Account Coordinator, Fusion Public Relations, Los Angeles, CA**  
 Create coverage grids and briefing books for clients, check lead headlines daily and distribute to office, put together press releases and pitches, help field questions about client products at trade shows and conventions, and work with teams to brainstorm ideas for product launches.
