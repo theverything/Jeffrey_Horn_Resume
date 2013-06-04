@@ -1,11 +1,16 @@
 # Jeffrey Horn #
 1(714)624-4454  
 j3ffhorn@gmail.com  
-[jeffreyhorn.com](http://www.jeffreyhorn.com "My website")
+[jeffreyhorn.com](http://www.jeffreyhorn.com "My website")  
+[GitHub](https://github.com/theverything/)
 
 * * *
 
 ## Education ##
+
+**Code Fellows**  
+*2013*  
+Ruby on Rails  
 
 **Fullerton College**  
 *2007-2008*  
@@ -21,7 +26,7 @@ High School Diploma
 
 ## Work Experience ##
 
-*01/2012-Current*  
+*01/2012-05/2013*  
 **Visual Production, Nordstrom, Fullerton, CA**  
 Prototype designs sent from corporate, organize materials needed for large scale production, inventory assets and props in the warehouse database, and maintain schedules for deliveries to stores in the region. 
 
@@ -48,4 +53,4 @@ Work in training department for new employees focusing on procedures and safety,
 **Microsoft Office:** Word, Excel, Power Point, and Outlook  
 **Web Development Software:** Coda, Sublime Text 2, Hype, iTerm2  
 **Programming:** HTML, CSS, JavaScript/Jquery, Ruby, and PHP  
-**Ruby Specific:** Ruby on Rails, Sinatra, and Rspec
+**Ruby Specific:** Ruby on Rails, Sinatra, Rspec, and Capybara
