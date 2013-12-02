@@ -1,28 +1,31 @@
 # Jeffrey Horn #
 1(714)624-4454  
 j3ffhorn@gmail.com  
-[jeffreyhorn.com](http://www.jeffreyhorn.com "My website")  
-[GitHub](https://github.com/theverything/)
+[jeffreyhorn.com](http://jeffreyhorn.com "My website")  
+[My GitHub](https://github.com/theverything/)
 
-* * *
+## Skills ##
 
-## Education ##
+**Adobe Creative Suite:** Photoshop, Illustrator, and InDesign  
+**Apple Applications:** Pages, Keynote, Numbers, Final Cut, Aperture, and Mail  
+**Microsoft Office:** Word, Excel, Power Point, and Outlook  
+**Web Development Software:** Coda, Sublime Text 2, Hype, iTerm2  
+**Programming:** HTML, CSS, JavaScript/Jquery, Ruby, and PHP  
+**Ruby Specific:** Ruby on Rails, Sinatra, Rspec, and Capybara
 
-**Code Fellows**  
-*2013*  
-Ruby on Rails  
+## Projects ##
 
-**Fullerton College**  
-*2007-2008*  
-General Education  
+**kat-park.com**  
+The personal site of Kat Park. I designed the site and created the assets. The site has an AJAX contact form, a portfolio section that loads in photos from flikr, and a custom widget that dynamically pulls in data from styleseat.com to display current contact and booking information. Technologies used - HTML, CSS, PHP, Javascript, Hype, Wordpress,  Flikr API, and Facebook Open Graph  
+[Site Link](http://www.kat-park.com)
 
-**Bellevue Community College**  
-*2006-2007*  
-General Education  
+**jbipsum.com**  
+A small sinatra app that creates place holder text from some of Justin Biebers douchiest quotes and lyrics. The site was a weekend project I learn more about Ruby and Sinatra. Technologies used - Ruby, Sinatra, Zurb Foundation, Bourbon Neat, and Heroku  
+[Site Link](http://jbipsum.com) | [GitHub](http://github.com/theverything/jbipsum)
 
-**Newport High School**  
-*1995-1999*  
-High School Diploma
+**404kids.org**  
+The milk carton of the web. An open API for information on lost children. Also includes a jquery script for embedding in 404 pages to display pictures and information of lost children. Technologies used - Ruby, Rails, Jquery, JSON, and JSONP  
+[Site Link](http://404kids.org)
 
 ## Work Experience ##
 
@@ -46,11 +49,20 @@ Create coverage grids and briefing books for clients, check lead headlines daily
 **Custodial Working Lead, Disneyland Resort, Anaheim, CA**  
 Work in training department for new employees focusing on procedures and safety, partner with other lines of business within the resort to maintain park cleanliness, supervise crews of up to 15 people, assign work locations breaks and monitor areas, disseminate information from management team to hourly cast members, work on special events such as commercial filming, private parties, provide guest service and park information to guests.
 
-## Skills ##
+## Education ##
 
-**Adobe Creative Suite:** Photoshop, Illustrator, and InDesign  
-**Apple Applications:** Pages, Keynote, Numbers, Final Cut, Aperture, and Mail  
-**Microsoft Office:** Word, Excel, Power Point, and Outlook  
-**Web Development Software:** Coda, Sublime Text 2, Hype, iTerm2  
-**Programming:** HTML, CSS, JavaScript/Jquery, Ruby, and PHP  
-**Ruby Specific:** Ruby on Rails, Sinatra, Rspec, and Capybara
+**Code Fellows**  
+*2013*  
+Ruby on Rails  
+
+**Fullerton College**  
+*2007-2008*  
+General Education  
+
+**Bellevue Community College**  
+*2006-2007*  
+General Education  
+
+**Newport High School**  
+*1995-1999*  
+High School Diploma
