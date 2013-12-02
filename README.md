@@ -9,7 +9,7 @@ I am a developer, a builder, and a hacker. From Photoshop to deployment I love w
 
 ## Skills ##
 
-**Languages/Frameworks:** HTML, CSS, JavaScript/Jquery, Ruby, Ruby on Rails, Sinatra, Bootstrap, Foundation
+**Languages/Frameworks:** HTML, CSS, JavaScript/Jquery, Ruby, Ruby on Rails, Sinatra, Bootstrap, Foundation, Git
 **Adobe Creative Suite:** Photoshop, Illustrator, and InDesign  
 **Apple Applications:** Pages, Keynote, Numbers, Final Cut, Aperture, Sketch, and Mail  
 **Microsoft Office:** Word, Excel, Power Point, and Outlook  
