@@ -1,53 +1,72 @@
 # Jeffrey Horn #
-1(714)624-4454  
-j3ffhorn@gmail.com  
-[jeffreyhorn.com](http://jeffreyhorn.com "My website")  
-[My GitHub](https://github.com/theverything/)
+j3ffhorn@gmail.com | [jeffreyhorn.com](http://jeffreyhorn.com "My website") | [GitHub](https://github.com/theverything/) | [Linkedin](http://www.linkedin.com/in/jeffreyhorndev)
+
+***
+
+## Hello ##
+
+I am a developer, a builder, and a hacker. From Photoshop to deployment I love working with the web.
 
 ## Skills ##
 
+**Languages/Frameworks:** HTML, CSS, JavaScript/Jquery, Ruby, Ruby on Rails, Sinatra, Bootstrap, Foundation
 **Adobe Creative Suite:** Photoshop, Illustrator, and InDesign  
-**Apple Applications:** Pages, Keynote, Numbers, Final Cut, Aperture, and Mail  
+**Apple Applications:** Pages, Keynote, Numbers, Final Cut, Aperture, Sketch, and Mail  
 **Microsoft Office:** Word, Excel, Power Point, and Outlook  
-**Web Development Software:** Coda, Sublime Text 2, Hype, iTerm2  
-**Programming:** HTML, CSS, JavaScript/Jquery, Ruby, and PHP  
-**Ruby Specific:** Ruby on Rails, Sinatra, Rspec, and Capybara
 
 ## Projects ##
 
-**kat-park.com**  
-The personal site of Kat Park. I designed the site and created the assets. The site has an AJAX contact form, a portfolio section that loads in photos from flikr, and a custom widget that dynamically pulls in data from styleseat.com to display current contact and booking information. Technologies used - HTML, CSS, PHP, Javascript, Hype, Wordpress,  Flikr API, and Facebook Open Graph  
-[Site Link](http://www.kat-park.com)
+**404kids.org**  
+The milk carton of the web. An open API for information on lost children. Also includes javascript for embedding in 404 pages to display pictures and information of lost children. Technologies used - Ruby, Rails, Jquery, JSON  
+[Site Link](http://404kids.org) | [GitHub](https://github.com/theverything/four04kids)
 
 **jbipsum.com**  
 A small sinatra app that creates place holder text from some of Justin Biebers douchiest quotes and lyrics. The site was a weekend project I learn more about Ruby and Sinatra. Technologies used - Ruby, Sinatra, Zurb Foundation, Bourbon Neat, and Heroku  
 [Site Link](http://jbipsum.com) | [GitHub](http://github.com/theverything/jbipsum)
 
-**404kids.org**  
-The milk carton of the web. An open API for information on lost children. Also includes a jquery script for embedding in 404 pages to display pictures and information of lost children. Technologies used - Ruby, Rails, Jquery, JSON, and JSONP  
-[Site Link](http://404kids.org)
+**kat-park.com**  
+The personal site of Kat Park. I designed the site and created the assets. The site has an AJAX contact form, a portfolio section that loads in photos from flikr, and a custom widget that dynamically pulls in data from styleseat.com to display current contact and booking information. Technologies used - HTML, CSS, PHP, Javascript, Hype, Wordpress,  Flikr API, and Facebook Open Graph  
+[Site Link](http://www.kat-park.com)
 
 ## Work Experience ##
 
-*01/2012-05/2013*  
-**Visual Production, Nordstrom, Fullerton, CA**  
-Prototype designs sent from corporate, organize materials needed for large scale production, inventory assets and props in the warehouse database, and maintain schedules for deliveries to stores in the region. 
+**Fullstack Web Developer (Contract), Pawzii, Seattle, WA** - *10/2013-current*
 
-*11/2009-01/2012*  
-**Visual Stylist, Nordstrom, Brea, CA**  
-Style womens, mens, kids and cosmetic departments using company trend reports, build and style windows, initiate department blitzes and track department progress, create floor schematics for departments, and set-up store for special events e.g. sales, holiday, cosmetics.
+- Upgrade site from Bootstrap 2.3 to 3.0
+- Integrate Search functionality with typeahead support
+- UX/UI Design
+- Work with team to implement geolocation service
+- Create reporting for app
+- Work with team to increase speed and responsiveness of app
 
-*01/2009-07/2009*  
-**Assistant Manager of Retail Store, Concours Motor Cars, Anaheim, CA**  
-Manage a team of 12 employees, create schedules for employees work hours, maintain inventory of merchandise, work closely with other retail companies for products and engagements. (Company Dissolved)
+**Hackstar, Techstars, Seattle, WA** - *08/2013-09/2013*
 
-*06/2007-06/2008*  
-**Account Coordinator, Fusion Public Relations, Los Angeles, CA**  
-Create coverage grids and briefing books for clients, check lead headlines daily and distribute to office, put together press releases and pitches, help field questions about client products at trade shows and conventions, and work with teams to brainstorm ideas for product launches.
+- Advise and assiste a portfolio of early-stage companies in developing proprietary systems
+- Work with the start-ups to add features or refine architecture or generally guide them about all things technology
+- Consult with start-ups about UX an UI design
 
-*09/1999-03/2006*  
-**Custodial Working Lead, Disneyland Resort, Anaheim, CA**  
-Work in training department for new employees focusing on procedures and safety, partner with other lines of business within the resort to maintain park cleanliness, supervise crews of up to 15 people, assign work locations breaks and monitor areas, disseminate information from management team to hourly cast members, work on special events such as commercial filming, private parties, provide guest service and park information to guests.
+**Visual Production, Nordstrom, Fullerton, CA** - *01/2012-05/2013*
+
+- Prototype designs sent from corporate
+- Organize materials needed for large scale production
+- Inventory assets and props in the warehouse database
+- Maintain schedules for deliveries to stores in the region
+
+**Visual Stylist, Nordstrom, Brea, CA** - *11/2009-01/2012*
+
+- Style womens, mens, kids and cosmetic departments using company trend reports
+- Build and style windows
+- Initiate department blitzes and track department progress
+- Create floor schematics for departments
+- Set-up store for special events e.g. sales, holiday, cosmetics
+
+**Account Coordinator, Fusion Public Relations, Los Angeles, CA** - *06/2007-06/2008*
+
+- Create coverage grids and briefing books for clients
+- Check lead headlines daily and distribute to office
+- Put together press releases and pitches
+- Field questions about client products at trade shows and conventions
+- Work with teams to brainstorm ideas for product launches
 
 ## Education ##
 
