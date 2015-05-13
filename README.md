@@ -9,10 +9,8 @@ I am a developer, a builder, and a hacker. From Photoshop to deployment I love w
 
 ## Skills ##
 
-**Languages/Frameworks:** HTML, CSS, JavaScript/Jquery, Ruby, Ruby on Rails, Sinatra, Bootstrap, Foundation, Git
+**Languages/Frameworks:** HTML, CSS, JavaScript/Node.js, Ruby, C#, SQL  
 **Adobe Creative Suite:** Photoshop, Illustrator, and InDesign  
-**Apple Applications:** Pages, Keynote, Numbers, Final Cut, Aperture, Sketch, and Mail  
-**Microsoft Office:** Word, Excel, Power Point, and Outlook  
 
 ## Projects ##
 
@@ -30,7 +28,13 @@ The personal site of Kat Park. I designed the site and created the assets. The s
 
 ## Work Experience ##
 
-**Fullstack Web Developer (Contract), Pawzii, Seattle, WA** - *10/2013-current*
+**Software Development Engineer, Zillow Group, Irvine, CA** - *02/2014-current*
+
+- Build next generation SASS products with React.js, Node.js, and Elastic Search
+- Maintain legecy Javascript and C# products
+- Help define developer best practices
+
+**Fullstack Web Developer (Contract), Pawzii, Seattle, WA** - *10/2013-01/2014*
 
 - Upgrade site from Bootstrap 2.3 to 3.0
 - Integrate Search functionality with typeahead support
